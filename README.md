@@ -84,7 +84,7 @@ The raw files give a running total of vehicles for each video frame. The script 
 ```
 data/processed/   5-minute counts made from the raw dataset
 notebooks/        Notebook for Kaggle or Google Colab
-report/           LaTeX project report and PDF
+report/           Project report (PDF)
 results/          Metrics and figures
 src/data/         Dataset download and preprocessing
 src/              Environment, training, evaluation and plots

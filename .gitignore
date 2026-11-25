@@ -24,3 +24,8 @@ report/*.log
 report/*.out
 results/**/eval_trips*.csv.gz
 results/final_big/*/
+report/*
+!report/*.pdf
+report/report.pdf
+results/final/
+src/report_tables.py
